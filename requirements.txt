@@ -1,0 +1,7 @@
+regex
+numpy
+matplotlib
+configparser
+matplotlib
+scikit-learn
+keras
